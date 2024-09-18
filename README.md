@@ -23,7 +23,7 @@
 8. Squamous cell carcinoma
 9. Vascular lesion
 
-correct formally as .md code ## Conclusions
+
 - The custom CNN model successfully classified skin lesion images into 9 categories.
 - Data augmentation strategies helped reduce overfitting, improving the model’s generalization on unseen data.
 - Handling class imbalances with augmentation techniques improved the model's performance on underrepresented classes.
