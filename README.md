@@ -23,7 +23,7 @@
 8. Squamous cell carcinoma
 9. Vascular lesion
 
-## Conclusions
+correct formally as .md code ## Conclusions
 - The custom CNN model successfully classified skin lesion images into 9 categories.
 - Data augmentation strategies helped reduce overfitting, improving the model’s generalization on unseen data.
 - Handling class imbalances with augmentation techniques improved the model's performance on underrepresented classes.
@@ -41,6 +41,6 @@
 - This project was inspired by the need for an automated system for melanoma detection to assist dermatologists.
 - The dataset is provided by the International Skin Imaging Collaboration (ISIC).
 - This project was based on techniques learned from TensorFlow’s documentation and various online tutorials.
-
+- 
 ## Contact
-Created by [@kajalmahata123] - feel free to contact me!
+Created by [@navcheru] - feel free to contact me!
